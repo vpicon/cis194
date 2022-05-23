@@ -22,3 +22,8 @@ The `lectures/` directory contains programs and notes from the lecture notes, as
 The `assigments/` directory contains the coding solutions of each of the homework assignments.
 The course web-page and contents have been downloaded into the archive `course_page.tar.gz`, for legacy.
 
+To open the course page from the terminal, we can run the script
+```bash
+$ bash open_course.sh
+```
+
